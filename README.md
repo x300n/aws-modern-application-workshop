@@ -65,4 +65,5 @@ To explore and remove the resources created individually, visit the the AWS Cons
 Redy to start again? Go to [Module 1: IDE Setup and Static Website Hosting](/module-1)
 
 
+
 [AWS Developer Center](https://developer.aws)
